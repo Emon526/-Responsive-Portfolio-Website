@@ -1,5 +1,4 @@
-# 🔥 Responsive Portfolio Website Asraful
-## 🔥 Responsive Portfolio Website
+# 🔥 Responsive Portfolio Website
 
 - Responsive Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
@@ -8,4 +7,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](/preview.png)
+<!-- ![preview img](/preview.png) -->
