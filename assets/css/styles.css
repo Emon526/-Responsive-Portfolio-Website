@@ -321,7 +321,7 @@ img {
   font-size: var(--biggest-font-size);
 }
 .home__img{
-  width: 160px;
+  width: 200px;
 }
 .home__handle{
   justify-self: center;
